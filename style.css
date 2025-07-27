@@ -1,0 +1,68 @@
+body{
+    background-color: rgb(240, 57, 57);
+    background-image: url(https://img.freepik.com/premium-photo/overhead-shot-coffee-beans_1042628-137687.jpg)
+    
+}
+
+h1,h2,p{
+    text-align: center;
+}
+.menu{
+    background-color: burlywood;
+    width: 80%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 20px;
+    max-width: 500px;
+}
+h1{
+    font-size: 40px;
+    margin-top:auto;
+    margin-bottom: auto;
+}
+hr{
+    height: 2px ;
+    border-color:  brown;
+    background-color: brown;
+}
+h2{
+    font-size: 30px;
+}
+img{
+    display: block;
+    margin: auto;
+    height: 40px;
+}
+.items p{
+    font-family: sans-serif;
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.flavour, .desserts{
+    text-align:left;
+    width: 75%;
+    
+}
+.price{
+    text-align:right;
+    width: 25%;
+}
+.footer p{
+    text-align:left
+}
+a{
+    color: rgb(54, 42, 165);
+}
+
+a:visited{
+    color: brown;
+}
+a:hover{
+    color: rgb(245, 13, 52);
+}
+a:active{
+    color: black;
+}
